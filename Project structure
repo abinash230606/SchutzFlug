@@ -1,1 +1,23 @@
-
+Drone starts mission
+        │
+        ▼
+Autonomous Navigation
+        │
+        ▼
+Capture RGB + Thermal Images
+        │
+        ▼
+AI detects:
+ • Survivors
+ • Fire
+ • Flood
+ • Debris
+        │
+        ▼
+GPS stores location
+        │
+        ▼
+Create Disaster Map
+        │
+        ▼
+Send Report to Command Center
