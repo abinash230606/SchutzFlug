@@ -204,6 +204,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a **⭐ Star** on GitHub to support its development.
