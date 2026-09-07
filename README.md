@@ -202,12 +202,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
-
-**Swathi Priya**
-
-Passionate about Artificial Intelligence, Computer Vision, Robotics, and Autonomous Systems.
-
 ---
 
 ## ⭐ Support
